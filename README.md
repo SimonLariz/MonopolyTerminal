@@ -11,6 +11,11 @@ Simpile Monopoly game through the terminal
 - ⭐100% C++
 
 Run with g++ 
+
 ```g++ main.cpp boardTile.cpp chanceSquare.cpp cornerSquare.cpp gameboard.cpp lotSquare.cpp player.cpp propertySquare.cpp railroadSquare.cpp taxSquare.cpp utilSquare.cpp -std=c++17 -o main ```
+
+
 And 
+
+
 ```./main```
