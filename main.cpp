@@ -6,6 +6,8 @@ using namespace std;
 
 int main()
 {
+	//Set random seed
+	srand((unsigned int)time(NULL));
 	//Create gameboard
 	gameboard myBoard = gameboard();
 	//Set up players
